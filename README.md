@@ -77,9 +77,8 @@ I believe in:
 
 ---
 
-## 📫 Contact & Links (optional)
+## 📫 Contact & Links
 
-*(Add your info if you want to be contacted or showcase your work)*  
 - 📧 Email: `isacc.adams@go.sfcollege.edu`  
 - 🌐 Portfolio: (I dont have one at the moment.)
 
